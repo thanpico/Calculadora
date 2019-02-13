@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="fav_margin">16dp</dimen>
+    <dimen name="margin_numeros">25dp</dimen>
+</resources>
